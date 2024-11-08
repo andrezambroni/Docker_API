@@ -2,7 +2,7 @@
   "name": "api",
   "version": "1.0.0",
   "description": "API para rodar no docker",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "dev": "tsx watch src/server.ts",
     "start": "node dist/server.js",
